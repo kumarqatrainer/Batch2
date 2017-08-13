@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../Ravi_Dev/tr/accelus-wc1-test-framework/acceptance-tests-common/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../Ravi_Dev/tr/accelus-wc1-test-framework/acceptance-tests-common/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../Ravi_Dev/tr/accelus-wc1-test-framework/api-acceptance-tests/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../Ravi_Dev/tr/accelus-wc1-test-framework/ui-acceptance-tests/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
